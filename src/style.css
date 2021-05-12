@@ -1,0 +1,10 @@
+  
+.title {
+    text-align: center;
+    box-shadow: 8px 10px 5px grey;
+    position: sticky;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.red {
+    color: rgb(218, 155, 155);
+}
