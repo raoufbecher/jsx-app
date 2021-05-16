@@ -17,7 +17,7 @@ function App() {
  <p>The pursuit of happyness </p>
 <br/>
 
-<img style={{width:'300px',height:"300px"}} src="/image/imageInPublic.JPEG"alt="imageInPublic"/>
+<img style={{width:'300px',height:"300px"}} src="/image/imageInPublic.jpeg"alt="imageInPublic"/>
 
 
 </div>
